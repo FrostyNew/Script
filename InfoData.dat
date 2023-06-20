@@ -1,7 +1,4 @@
 Information = {
-
-  ["Status"] = "active",
-  ["Updater"] = "3.7",
-  ["Timeout"] = 45,
-
-  }
+["Status"] = "active",
+["Updater"] = "3.7",
+["Timeout"] = 45}
